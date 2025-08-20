@@ -1,1 +1,6 @@
-// Code your solution in this file!
+// // Code your solution in this file!
+let companyName = 'Scuber';
+// // const companyName = 'scuber'
+let mostProfitableNeighborhood ='Chelsea';
+let companyCeo = 'Susan Smith';
+// companyCeo = 'susan smith';
